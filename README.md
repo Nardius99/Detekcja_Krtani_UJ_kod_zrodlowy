@@ -13,7 +13,7 @@ train.py - trening YOLOv8n, model bazowy
 
 train_yolov8s.py - trening YOLOv8s, eksperyment porównawczy
 
-3. EWAULACJA
+3. EWALUACJA
 
 evaluate_test.py - ewaluacja na zbiorze testowym
 
