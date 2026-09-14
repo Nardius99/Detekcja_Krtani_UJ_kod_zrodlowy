@@ -21,4 +21,4 @@ measure_fps.py - pomiar czasu przetwarzania
 
 4. AUDYT BŁĘDÓW
 
-znajdz_bledy.py - podstawa podrozdziału 4.6
+znajdz_bledy.py - audyt błędów, podstawa podrozdziału 4.6
